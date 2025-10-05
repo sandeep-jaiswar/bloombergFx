@@ -3,3 +3,46 @@
 
 # Ignore Gradle build output directory
 build
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
+# Ignore macOS specific files
+.DS_Store
+# Ignore Windows specific files
+Thumbs.db
+# Ignore log files
+*.log
+
+# Ignore compiled class files
+*.class
+
+# Ignore Java package files
+*.jar
+*.war
+*.ear
+
+# Ignore temporary files
+*.tmp
+
+# Ignore generated files
+*.out
+*.o
+
+# Ignore coverage reports
+coverage/
+*.lcov
+# Ignore test reports
+test-reports/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore bin directory
+bin/
