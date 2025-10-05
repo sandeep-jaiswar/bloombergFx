@@ -1,4 +1,4 @@
-package org.bloombergfx;
+package org.bloombergfx.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
