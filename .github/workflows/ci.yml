@@ -6,7 +6,7 @@ on:
       - main
   pull_request:
     branches:
-      - feat
+      - main
 
 jobs:
   build-and-test:
